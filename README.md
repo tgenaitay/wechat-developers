@@ -1,9 +1,20 @@
-# wechat-developers
-Community project - Light directory of Wagoners who code WeChat apps - www.wechatdevelopers.com
+[![Build Status](https://api.travis-ci.com/tgenaitay/wechat-developers.svg?branch=master)](https://travis-ci.com/tgenaitay/wechat-developers)
 
-1. Content
+# Wechatdevelopers.com
 
-- Edit `data/developers.json`
+[Le Wagon](https://www.lewagon.com/) community project
+
+### Light directory of Wagoners who code WeChat apps!
+
+👉 [https://www.wechatdevelopers.com](www.wechatdevelopers.com)
+
+### How to add your profile in the directory?
+
+## 1. Fork this repo
+
+## 2. Add content
+
+Edit `data/developers.json`, add a new object
 
 ```json
 {
@@ -16,10 +27,14 @@ Community project - Light directory of Wagoners who code WeChat apps - www.wecha
 }
 ```
 
-2. QR codes
+No need to put yourself first, the directory is rendered in random order 😉
 
-- Upload file to `source/images/QR`
+## 2. Prepare a QR code
+
+- Upload your file to `source/images/QR`
 - No white border
 - > 300 * 300px
 
-3. Make a [pull request](https://github.com/tgenaitay/wechat-developers/compare)
+## 3. Submit a [pull request](https://github.com/tgenaitay/wechat-developers/compare) 🎉
+
+Contact [@tgenaitay](http://github.com/tgenaitay/) for help.
