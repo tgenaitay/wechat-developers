@@ -29,12 +29,12 @@ Edit `data/developers.json`, add a new object
 
 No need to put yourself first, the directory is rendered in random order 😉
 
-## 2. Prepare a QR code
+## 3. Prepare a QR code
 
 - Upload your file to `source/images/QR`
 - No white border
 - > 300 * 300px
 
-## 3. Submit a [pull request](https://github.com/tgenaitay/wechat-developers/compare) 🎉
+## 4. Submit a [pull request](https://github.com/tgenaitay/wechat-developers/compare) 🎉
 
 Contact [@tgenaitay](http://github.com/tgenaitay/) for help.
