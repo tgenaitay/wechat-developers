@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+  - 2.4.2
+before_install:
+  - rvm install 2.4.2
+install:
+  - bundle install
+script:
+  - git config --global user.name '${GIT_NAME}'
+  - git config --global user.email '${GIT_NAME}'
+  - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
+  - bundle exec middleman build
+  - bundle exec middleman deploy
+branches:
+  only:
+  - master
