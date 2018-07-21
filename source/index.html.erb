@@ -27,7 +27,7 @@ title: WeChat mini program developers available for hire
   <% data.developers.shuffle.each do |dev| %>
 
     <div class="card">
-      <a href="#" onclick="return false;" class="QR" style="background-image: url(images/QR/<%= dev.QR %>);">
+      <a href="images/QR/<%= dev.QR %>" onclick="return false;" class="QR" style="background-image: url(images/QR/<%= dev.QR %>);">
       </a>
       <div class="overlay-text">
         <span>WeChat ID:<br>
