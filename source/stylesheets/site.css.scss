@@ -1,0 +1,35 @@
+@import "config/font";
+@import "config/variables";
+@import "components/card";
+@import "layouts/grid";
+@import "layouts/template";
+
+body {
+  background-color: $lighter-gray;
+  color: $dark-gray;
+  margin: 0;
+  font-size: $txt-default;
+  font-family: $font-default;
+}
+
+a {
+  color: rgba(#000, 0.7);
+  &:focus,
+  &:hover {
+    color: rgba(#000, 0.6);
+  }
+  text-decoration: none;
+}
+
+.list-inline {
+  list-style: none;
+  padding:0;
+}
+
+.list-inline li {
+  display:inline-block;
+}
+
+.text-center {
+  text-align: center;
+}
