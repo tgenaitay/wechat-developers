@@ -84,7 +84,7 @@
   padding-left:5px;
 }
 
-.card:hover .overlay-text {
+.card:hover .overlay-text, .card:active .overlay-text, .card:focus .overlay-text {
   opacity: 1;
 }
 
