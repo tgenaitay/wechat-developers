@@ -7,8 +7,8 @@
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title><%= current_page.data.title || "Middleman" %></title>
     <meta name="description" content="">
-    <%= stylesheet_link_tag "site" %>
-    <%= javascript_include_tag "site" %>
+    <link href="stylesheets/site.css" rel="stylesheet" />
+    <script src="javascripts/site.js"></script>
   </head>
   <body>
     <%= yield %>
