@@ -5,7 +5,8 @@
     "url": "https://www.linkedin.com/in/thibaultgenaitay/",
     "avatar": "https://avatars0.githubusercontent.com/u/4608664",
     "wechatID": "thibaultgenaitay",
-    "QR": "thibaultgenaitay.png"
+    "QR": "thibaultgenaitay.png",
+    "speakspeakCN": "Yes"
   },
   {
     "name": "Dounan Hu",
@@ -13,7 +14,8 @@
     "url": "#",
     "avatar": "https://avatars1.githubusercontent.com/u/1525072",
     "wechatID": "dounanhu",
-    "QR": "qrcode.jpg"
+    "QR": "qrcode.jpg",
+    "speakCN": "Yes"
   },
   {
     "name": "Thibault Genaitay",
@@ -21,7 +23,8 @@
     "url": "https://www.linkedin.com/in/thibaultgenaitay/",
     "avatar": "https://avatars0.githubusercontent.com/u/4608664",
     "wechatID": "thibaultgenaitay",
-    "QR": "qrcode.jpg"
+    "QR": "qrcode.jpg",
+    "speakCN": "Yes"
   },
   {
     "name": "Dounan Hu",
@@ -29,7 +32,8 @@
     "url": "#",
     "avatar": "https://avatars1.githubusercontent.com/u/1525072",
     "wechatID": "dounanhu",
-    "QR": "qrcode.jpg"
+    "QR": "qrcode.jpg",
+    "speakCN": "Yes"
   },
   {
     "name": "Thibault Genaitay",
@@ -37,6 +41,7 @@
     "url": "https://www.linkedin.com/in/thibaultgenaitay/",
     "avatar": "https://avatars0.githubusercontent.com/u/4608664",
     "wechatID": "thibaultgenaitay",
-    "QR": "qrcode.jpg"
+    "QR": "qrcode.jpg",
+    "speakCN": "Yes"
   }
 ]
