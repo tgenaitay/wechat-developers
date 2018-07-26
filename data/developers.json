@@ -1,29 +1,5 @@
 [
   {
-    "name": "Thibault Genaitay",
-    "location": "Shanghai",
-    "url": "https://www.linkedin.com/in/thibaultgenaitay/",
-    "avatar": "https://avatars0.githubusercontent.com/u/4608664",
-    "wechatID": "thibaultgenaitay",
-    "QR": "thibaultgenaitay.png"
-  },
-  {
-    "name": "Dounan Hu",
-    "location": "Shanghai",
-    "url": "#",
-    "avatar": "https://avatars1.githubusercontent.com/u/1525072",
-    "wechatID": "dounanhu",
-    "QR": "qrcode.jpg"
-  },
-  {
-    "name": "Thibault Genaitay",
-    "location": "Shanghai",
-    "url": "https://www.linkedin.com/in/thibaultgenaitay/",
-    "avatar": "https://avatars0.githubusercontent.com/u/4608664",
-    "wechatID": "thibaultgenaitay",
-    "QR": "qrcode.jpg"
-  },
-  {
     "name": "Dounan Hu",
     "location": "Shanghai",
     "url": "#",
@@ -38,6 +14,13 @@
     "avatar": "https://avatars3.githubusercontent.com/u/10313152?s=400&u=f20837d25a4dcd2ad03e4472323c221080029044&v=4",
     "wechatID": "yay_cake",
     "QR": "qr_grace.png"
+  },
+  {
+    "name": "Audrey Gourdji",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/audrey-gourdji/",
+    "avatar": "https://avatars0.githubusercontent.com/u/32171360",
+    "wechatID": "audjii",
+    "QR": "audreygourdjiqr.jpg"
   }
-  
 ]
