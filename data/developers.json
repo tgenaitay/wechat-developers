@@ -32,11 +32,12 @@
     "QR": "qrcode.jpg"
   },
   {
-    "name": "Thibault Genaitay",
-    "location": "Shanghai",
-    "url": "https://www.linkedin.com/in/thibaultgenaitay/",
-    "avatar": "https://avatars0.githubusercontent.com/u/4608664",
-    "wechatID": "thibaultgenaitay",
-    "QR": "qrcode.jpg"
+    "name": "Grace Yang",
+    "location": "Chengdu/Shanghai",
+    "url": "http://www.thegraceyang.com",
+    "avatar": "https://avatars3.githubusercontent.com/u/10313152?s=400&u=f20837d25a4dcd2ad03e4472323c221080029044&v=4",
+    "wechatID": "yay_cake",
+    "QR": "qr_grace.png"
   }
+  
 ]
