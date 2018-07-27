@@ -23,7 +23,9 @@ Edit `data/developers.json`, add a new object
   "url": "https://www.linkedin.com/in/thibaultgenaitay/",
   "avatar": "https://avatars0.githubusercontent.com/u/4608664",
   "wechatID": "thibaultgenaitay",
-  "QR": "thibaultgenaitay.png"
+  "QR": "thibaultgenaitay.png",
+  "CNname": "帅死了",
+  "speakCN": ""
 }
 ```
 
