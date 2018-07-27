@@ -6,9 +6,9 @@
 
 ### Light directory of Wagoners who code WeChat apps!
 
-👉 [https://www.wechatdevelopers.com](www.wechatdevelopers.com)
+👉 [https://www.wechatdevelopers.com](https://www.wechatdevelopers.com/)
 
-### How to add your profile in the directory?
+How to add your profile in the directory?
 
 ## 1. Fork this repo
 
