@@ -25,7 +25,7 @@ Edit `data/developers.json`, add a new object
   "wechatID": "thibaultgenaitay",
   "QR": "thibaultgenaitay.png",
   "CNname": "帅死了",
-  "speakCN": ""
+  "speakCN": "YES!"
 }
 ```
 
