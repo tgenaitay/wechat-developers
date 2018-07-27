@@ -117,8 +117,7 @@
     "wechatID": "sergio-swat",
     "QR": "sergio_qr.jpg",
     "CNname": "雷思哲",
-    "speakCN": "yes",
-    "QR": "benoitmrejen.png"
+    "speakCN": "yes"
   },
     {
     "name": "Forrest Ye",
@@ -127,7 +126,7 @@
     "avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_400,w_400/qe7hxrrck8jpippe070m.jpg",
     "wechatID": "fye____",
     "QR": "fye.jpg",
-    "speakCN": "yes",
-    "QR": "benoitmrejen.png"
+    "CNname": "",
+    "speakCN": "yes"
   }
 ]
