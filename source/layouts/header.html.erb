@@ -1,0 +1,43 @@
+<% if lang == :en %>
+<header class="text-center">
+  <div id="language">
+  <a href="/zh-CN/"><h2>中文</h2></a>
+  </div>
+  <h1>
+    <%= t('header_title') %>
+  </h1>
+
+  <ul class="list-inline">
+    <li><i class="icon iconfont icon-weixin"></i></li>
+    <li><i class="icon iconfont icon-xiaochengxu"></i></li>
+    <li><i class="icon iconfont icon-pengyouquan"></i></li>
+    <li><i class="icon iconfont icon-weixinsaoma"></i></li>
+    <li><i class="icon iconfont icon-weixinzhifu"></i></li>
+    <li><i class="icon iconfont icon-weixinyaoyiyaoicon"></i></li>
+  </ul>
+
+  <p><%= t('header_description') %></p>
+
+</header>
+<% else %>
+<header class="text-center">
+  <div id="language">
+  <a href="/"><h2>English</h2></a>
+  </div>
+  <h1>
+    <%= t('header_title') %>
+  </h1>
+
+  <ul class="list-inline">
+    <li><i class="icon iconfont icon-weixin"></i></li>
+    <li><i class="icon iconfont icon-xiaochengxu"></i></li>
+    <li><i class="icon iconfont icon-pengyouquan"></i></li>
+    <li><i class="icon iconfont icon-weixinsaoma"></i></li>
+    <li><i class="icon iconfont icon-weixinzhifu"></i></li>
+    <li><i class="icon iconfont icon-weixinyaoyiyaoicon"></i></li>
+  </ul>
+
+  <p><%= t('header_description') %></p>
+
+</header>
+<% end %>

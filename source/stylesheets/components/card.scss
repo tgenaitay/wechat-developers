@@ -11,6 +11,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   position:relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 
 .card p {
@@ -35,6 +36,7 @@
   top: -10px;
 }
 
+
 .QR {
   width: 100%;
   position: absolute;
@@ -42,7 +44,6 @@
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
-  opacity: 0.7;
   border-radius: $radius;
 }
 
@@ -52,13 +53,13 @@
   font-size: .8em;
   color: white;
   font-weight: bolder;
-  text-shadow: 0 0 10px $dark-gray;
   text-align: center;
-  display: flex; align-items: center; justify-content: space-around;
-  background-color: rgba(white, 0.9);
+  display: flex; align-items: center; flex-direction: column;
+  background-color: rgba($dark-gray, 0.9);
   position: absolute;
   height: 80px;
   top: 110px;
+  padding: 10px;
 }
 
 .overlay-text strong {
@@ -89,4 +90,15 @@
 
 .card:hover .avatar {
   top: -14px;
+  border-color: $ruby;
+}
+
+.chinese {
+  position:relative;
+  color: #fff;
+  background-color: $ruby;
+  padding: 0.38rem !important;
+  font-size: 0.66571rem !important;
+  border-radius: 50px;
+  text-align:center
 }

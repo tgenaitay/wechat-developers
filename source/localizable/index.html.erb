@@ -1,0 +1,75 @@
+---
+title: WeChat mini program developers available for hire
+---
+<div class="wrapper">
+
+  <div class="collection">
+  <% if lang == :en %>
+    <% data.developers.shuffle.each do |dev| %>
+
+    <div class="card">
+      <img src="/images/QR/<%= dev.QR %>" alt="" class="QR">
+      <div class="overlay-text">
+        <div>WeChat ID:<br>
+        <strong><%= dev.wechatID %></strong><br>
+        </div>
+      </div>
+      <div class="bottom-text">
+        <div>
+          <p><%= dev.name %>
+          <% if dev.speakCN.present? %>
+          <span class="chinese">会讲中文</span>
+          <% end %></p>
+          <span><%= dev.location %></span>
+        </div>
+        <a href="<%= dev.url %>">
+          <img src="<%= dev.avatar %>" alt="" class="avatar">
+        </a>
+      </div>
+    </div>
+    <% end %>
+  <% else %>
+    <% data.developers.shuffle.each do |dev| %>
+      <% if dev.speakCN.present? %>
+      <div class="card">
+        <img src="/images/QR/<%= dev.QR %>" alt="" class="QR">
+        <div class="overlay-text">
+          <span>WeChat ID:<br>
+          <strong><%= dev.wechatID %></strong><br>
+          </span>
+          <span>Chinese Name:<br>
+          <strong><%= dev.CNname %></strong><br>
+          </span>
+        </div>
+        <div class="bottom-text">
+          <div>
+            <p><%= dev.name %>
+            <span class="chinese">会讲中文</span>
+            <span><%= dev.location %></span>
+          </div>
+          <a href="<%= dev.url %>">
+            <img src="<%= dev.avatar %>" alt="" class="avatar">
+          </a>
+        </div>
+      </div>
+      <% end %>
+    <% end %>
+  <% end %>
+
+
+  </div>
+
+</div>
+
+<footer class="text-center">
+  <% if lang == :en %>
+  <h2>People at <a href="https://www.lewagon.com/">Le Wagon</a> love to code for WeChat 微信</h2>
+  <% else %>
+  <h2><a href="https://www.lewagon.com/">Le Wagon</a>的校友们♥️开发微信小程序</h2>
+  <% end %>
+  <small>
+  <%= t('footer_description') %>
+<em><%= t('tencent_biotches') %></em>
+  </small>
+
+</footer>

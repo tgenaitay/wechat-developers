@@ -1,11 +1,23 @@
 [
   {
+    "name": "Thibault Genaitay",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/thibaultgenaitay/",
+    "avatar": "https://avatars0.githubusercontent.com/u/4608664",
+    "wechatID": "thibaultgenaitay",
+    "QR": "thibaultgenaitay.png",
+    "CNname": "",
+    "speakCN": "Yes"
+  },
+  {
     "name": "Dounan Hu",
     "location": "Shanghai",
     "url": "#",
     "avatar": "https://avatars1.githubusercontent.com/u/1525072",
     "wechatID": "dounanhu",
-    "QR": "qrcode.jpg"
+    "QR": "qrcode.jpg",
+    "CNname": "",
+    "speakCN": "Yes"
   },
   {
     "name": "Grace Yang",
@@ -13,7 +25,9 @@
     "url": "http://www.thegraceyang.com",
     "avatar": "https://avatars3.githubusercontent.com/u/10313152?s=400&u=f20837d25a4dcd2ad03e4472323c221080029044&v=4",
     "wechatID": "yay_cake",
-    "QR": "qr_grace.png"
+    "QR": "qr_grace.png",
+    "CNname": "",
+    "speakCN": ""
   },
   {
     "name": "Audrey Gourdji",
@@ -21,7 +35,9 @@
     "url": "https://www.linkedin.com/in/audrey-gourdji/",
     "avatar": "https://avatars0.githubusercontent.com/u/32171360",
     "wechatID": "audjii",
-    "QR": "audreygourdjiqr.jpg"
+    "QR": "audreygourdjiqr.jpg",
+    "CNname": "",
+    "speakCN": ""
   },
   {
     "name": "Fabien Martin",
@@ -29,7 +45,9 @@
     "url": "https://www.linkedin.com/in/fabienmartin",
     "avatar": "https://avatars0.githubusercontent.com/u/25545335?s=460&v=4",
     "wechatID": "fabien_martin",
-    "QR": "fabien_martin.jpg"
+    "QR": "fabien_martin.jpg",
+    "CNname": "",
+    "speakCN": ""
   },
   {
     "name": "John Roberts",
@@ -37,7 +55,9 @@
     "url": "https://johnny.sh/",
     "avatar": "https://avatars2.githubusercontent.com/u/11850362",
     "wechatID": "damachabeats",
-    "QR": "john_qr.jpg"
+    "QR": "john_qr.jpg",
+    "CNname": "",
+    "speakCN": ""
   },
   {
     "name": "Pitipon Pluemworasawat",
@@ -45,7 +65,39 @@
     "url": "https://www.linkedin.com/in/pitipon-pluemworasawat-1b3859136/",
     "avatar": "https://media.licdn.com/dms/image/C5103AQGaZ119L1hj7Q/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=hp5gECH-G-842kV8rAlKkeT6_AQFkn0P8056rS85q_E",
     "wechatID": "pitiponmo2",
-    "QR": "mo.jpg"
+    "QR": "mo.jpg",
+    "CNname": "",
+    "speakCN": ""
+  },
+  {
+    "name": "Benoit Mrejen",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/audrey-gourdji/",
+    "avatar": "https://avatars0.githubusercontent.com/u/32171360",
+    "wechatID": "audjii",
+    "QR": "audreygourdjiqr.jpg",
+    "CNname": "",
+    "speakCN": ""
+  },
+  {
+    "name": "Xiaohu Pei",
+    "location": "Hangzhou, Beijing, Shanghai",
+    "url": "https://www.linkedin.com/in/audrey-gourdji/",
+    "avatar": "https://avatars.githubusercontent.com/u/11469112",
+    "wechatID": "ifreelifehacker",
+    "QR": "xiaohupei_qr.png",
+    "CNname": "裴晓虎",
+    "speakCN": "Yes"
+  },
+  {
+    "name": "Jason Chee",
+    "location": "Hangzhou, Shanghai",
+    "url": "https://jchee.org",
+    "avatar": "https://avatars0.githubusercontent.com/u/24415168?",
+    "wechatID": "screendoor",
+    "QR": "qr_0-240.gif",
+    "CNname": "徐康翔",
+    "speakCN": "yes"
   },
   {
     "name": "Benoit Mrejen",
@@ -53,6 +105,19 @@
     "url": "https://www.linkedin.com/in/bmrejen/",
     "avatar": "https://avatars0.githubusercontent.com/u/20118433?s=460&v=4",
     "wechatID": "yadoyadoya",
+    "QR": "benoitmrejen.png",
+    "CNname": "",
+    "speakCN": ""
+  },
+  {
+    "name": "Sergio Rivas",
+    "location": "Hangzhou, Ningbo, Shanghai",
+    "url": "",
+    "avatar": "https://avatars0.githubusercontent.com/u/25148614?",
+    "wechatID": "sergio-swat",
+    "QR": "sergio_qr.jpg",
+    "CNname": "雷思哲",
+    "speakCN": "yes",
     "QR": "benoitmrejen.png"
   },
     {
@@ -61,6 +126,8 @@
     "url": "https://github.com/forresty",
     "avatar": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_400,w_400/qe7hxrrck8jpippe070m.jpg",
     "wechatID": "fye____",
-    "QR": "fye.jpg"
+    "QR": "fye.jpg",
+    "speakCN": "yes",
+    "QR": "benoitmrejen.png"
   }
 ]

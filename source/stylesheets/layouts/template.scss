@@ -23,3 +23,10 @@ footer {
 footer a {
   border-bottom: 1px solid $gray;
 }
+
+#language{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2em;
+  font-size: 0.8em
+}
