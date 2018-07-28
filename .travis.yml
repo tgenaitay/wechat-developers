@@ -12,7 +12,6 @@ script:
   - bundle exec middleman build
   - cd build/
   - git checkout -b gh-pages
-  - git fetch origin
   - echo "www.wechatdevelopers.com" > CNAME
   - git add .
   - git commit -m 'auto deploy'
