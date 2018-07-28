@@ -12,10 +12,11 @@ script:
   - bundle exec middleman build
   - cd build/
   - git checkout -b gh-pages
+  - git fetch origin
   - echo "www.wechatdevelopers.com" > CNAME
   - git add .
-  - git commit -m 'fixing CNAME'
-  - git push -u origin gh-pages
+  - git commit -m 'auto deploy'
+  - git push -f origin gh-pages
 branches:
   only:
   - master
