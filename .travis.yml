@@ -14,7 +14,7 @@ script:
   - echo "www.wechatdevelopers.com" > build/CNAME
   - git add build/CNAME
   - git commit -m "CNAME"
-  - git push origin gh-pages
+  - git push https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git gh-pages
 branches:
   only:
   - master
