@@ -14,7 +14,8 @@ script:
   - git fetch
   - git checkout -b gh-pages
   - echo "www.wechatdevelopers.com" > build/CNAME
-  - git add .
+  - git pull origin gh-pages
+  - git add build/CNAME
   - git commit -m 'fixing CNAME'
   - git push -u origin gh-pages
 branches:
