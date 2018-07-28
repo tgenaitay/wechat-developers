@@ -10,6 +10,7 @@ script:
   - git config --global user.email '${GIT_NAME}'
   - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
   - bundle exec middleman build
+  - echo "www.wechatdevelopers.com" > build/CNAME
   - bundle exec middleman deploy
 branches:
   only:
