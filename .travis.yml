@@ -10,10 +10,10 @@ script:
   - git config --global user.email '${GIT_NAME}'
   - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
   - bundle exec middleman build
-  - bundle exec middleman deploy
+  - cd build/
   - git checkout -b gh-pages
   - echo "www.wechatdevelopers.com" > CNAME
-  - git add CNAME
+  - git add .
   - git commit -m 'fixing CNAME'
   - git push -u origin gh-pages
 branches:
