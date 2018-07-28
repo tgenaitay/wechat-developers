@@ -7,7 +7,7 @@
     "wechatID": "thibaultgenaitay",
     "QR": "thibaultgenaitay.png",
     "CNname": "",
-    "speakCN": "Yes"
+    "speakCN": ""
   },
   {
     "name": "Dounan Hu",
@@ -27,7 +27,7 @@
     "wechatID": "yay_cake",
     "QR": "qr_grace.png",
     "CNname": "",
-    "speakCN": ""
+    "speakCN": "Yes"
   },
   {
     "name": "Audrey Gourdji",
@@ -37,7 +37,7 @@
     "wechatID": "audjii",
     "QR": "audreygourdjiqr.jpg",
     "CNname": "",
-    "speakCN": ""
+    "speakCN": "Yes"
   },
   {
     "name": "Fabien Martin",
@@ -57,7 +57,7 @@
     "wechatID": "damachabeats",
     "QR": "john_qr.jpg",
     "CNname": "",
-    "speakCN": ""
+    "speakCN": "Yes"
   },
   {
     "name": "Pitipon Pluemworasawat",
@@ -66,16 +66,6 @@
     "avatar": "https://media.licdn.com/dms/image/C5103AQGaZ119L1hj7Q/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=hp5gECH-G-842kV8rAlKkeT6_AQFkn0P8056rS85q_E",
     "wechatID": "pitiponmo2",
     "QR": "mo.jpg",
-    "CNname": "",
-    "speakCN": ""
-  },
-  {
-    "name": "Benoit Mrejen",
-    "location": "Shanghai",
-    "url": "https://www.linkedin.com/in/audrey-gourdji/",
-    "avatar": "https://avatars0.githubusercontent.com/u/32171360",
-    "wechatID": "audjii",
-    "QR": "audreygourdjiqr.jpg",
     "CNname": "",
     "speakCN": ""
   },
@@ -107,7 +97,7 @@
     "wechatID": "yadoyadoya",
     "QR": "benoitmrejen.png",
     "CNname": "",
-    "speakCN": ""
+    "speakCN": "yes"
   },
   {
     "name": "Sergio Rivas",
