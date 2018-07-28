@@ -11,8 +11,7 @@ script:
   - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
   - bundle exec middleman build
   - bundle exec middleman deploy
-  - git pull origin gh-pages
-  - git rebase gh-pages
+  - git pull origin gh-pages --allow-unrelated-histories
   - echo "www.wechatdevelopers.com" > CNAME
   - git add CNAME
   - git commit -m 'auto CNAME'
