@@ -11,10 +11,11 @@ script:
   - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
   - bundle exec middleman build
   - bundle exec middleman deploy
+  - git checkout gh-pages
   - echo "www.wechatdevelopers.com" > build/CNAME
   - git add build/CNAME
-  - git commit -m "CNAME"
-  - git push https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git gh-pages
+  - git commit -m 'fixing CNAME'
+  - git push -u origin gh-pages
 branches:
   only:
   - master
