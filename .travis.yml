@@ -13,7 +13,7 @@ script:
   - bundle exec middleman deploy
   - git pull origin gh-pages --allow-unrelated-histories
   - echo "www.wechatdevelopers.com" > CNAME
-  - git add CNAME
+  - git add .
   - git commit -m 'auto CNAME'
   - git push origin gh-pages
 branches:
