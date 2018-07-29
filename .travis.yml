@@ -7,10 +7,19 @@ install:
   - bundle install
 script:
   - git config --global user.name '${GIT_NAME}'
-  - git config --global user.email '${GIT_NAME}'
+  - git config --global user.email '${GIT_EMAIL}'
   - git remote set-url origin https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git
   - bundle exec middleman build
   - bundle exec middleman deploy
+after_success:
+  - git clone https://github.com/tgenaitay/wechat-developers.git
+  - cd wechat-developers
+  - git checkout gh-pages
+  - touch CNAME
+  - echo "www.wechatdevelopers.com" > CNAME
+  - git add .
+  - git commit -m 'adding CNAME'
+  - git push https://tgenaitay:${GH_TOKEN}@github.com/tgenaitay/wechat-developers.git gh-pages
 branches:
   only:
   - master
