@@ -128,5 +128,15 @@
     "QR": "fye.jpg",
     "CNname": "",
     "speakCN": "yes"
-  }
+  },
+  {
+  "name": "Dan Li",
+  "location": "Shanghai",
+  "url": "https://github.com/dl-dnli",
+  "avatar": "https://avatars1.githubusercontent.com/u/35441384?s=460&v=4",
+  "wechatID": "dangeli",
+  "QR": "dl.jpg",
+  "CNname": "",
+  "speakCN": "YES!"
+}
 ]
