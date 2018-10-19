@@ -148,5 +148,15 @@
     "QR": "de_qr.jpg",
     "CNname": "恩格",
     "speakCN": "YES!"
-  }
+  },
+  {
+  "name": "Adam Kalimi",
+  "location": "Shanghai",
+  "url": "https://github.com/AdamJosephKalimi",
+  "avatar": "https://avatars2.githubusercontent.com/u/26082320?s=400&u=9618b1787e6e26b21c3b722ac5874bf627b27252&v=4",
+  "wechatID": "AdamJKalimi",
+  "QR": "adamkalimi.jpg",
+  "CNname": "桥瑟夫",
+  "speakCN": ""
+}
 ]
