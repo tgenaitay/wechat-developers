@@ -158,5 +158,15 @@
   "QR": "adamkalimi.jpg",
   "CNname": "桥瑟夫",
   "speakCN": ""
-}
+},
+  {
+    "name": "Leo Chen",
+    "location": "Los Angeles",
+    "url": "https://github.com/leochen65/",
+    "avatar": "https://avatars3.githubusercontent.com/u/39700574?s=460&v=4",
+    "wechatID": "chenleo_0803",
+    "QR": "leochen.jpg",
+    "CNname": "陈奕恺",
+    "speakCN": "Yes!"
+  },
 ]
