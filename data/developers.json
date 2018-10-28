@@ -130,14 +130,14 @@
     "speakCN": "yes"
   },
   {
-  "name": "Dan Li",
-  "location": "Shanghai",
-  "url": "https://github.com/dl-dnli",
-  "avatar": "https://avatars1.githubusercontent.com/u/35441384?s=460&v=4",
-  "wechatID": "dangeli",
-  "QR": "dl.jpg",
-  "CNname": "",
-  "speakCN": "YES!"
+    "name": "Dan Li",
+    "location": "Shanghai",
+    "url": "https://github.com/dl-dnli",
+    "avatar": "https://avatars1.githubusercontent.com/u/35441384?s=460&v=4",
+    "wechatID": "dangeli",
+    "QR": "dl.jpg",
+    "CNname": "",
+    "speakCN": "YES!"
   },
   {
     "name": "Dan Engel",
@@ -150,13 +150,23 @@
     "speakCN": "YES!"
   },
   {
-  "name": "Adam Kalimi",
-  "location": "Shanghai",
-  "url": "https://github.com/AdamJosephKalimi",
-  "avatar": "https://avatars2.githubusercontent.com/u/26082320?s=400&u=9618b1787e6e26b21c3b722ac5874bf627b27252&v=4",
-  "wechatID": "AdamJKalimi",
-  "QR": "adamkalimi.jpg",
-  "CNname": "桥瑟夫",
-  "speakCN": ""
-}
+    "name": "Adam Kalimi",
+    "location": "Shanghai",
+    "url": "https://github.com/AdamJosephKalimi",
+    "avatar": "https://avatars2.githubusercontent.com/u/26082320?s=400&u=9618b1787e6e26b21c3b722ac5874bf627b27252&v=4",
+    "wechatID": "AdamJKalimi",
+    "QR": "adamkalimi.jpg",
+    "CNname": "桥瑟夫",
+    "speakCN": ""
+  },
+  {
+    "name": "Ziva Xu",
+    "location": "Shanghai",
+    "url": "https://github.com/ZivaXu",
+    "avatar": "https://avatars2.githubusercontent.com/u/19585987?s=400&u=38ceaaea5d0d06b8da8fecf05b9cb8104082b68d&v=4",
+    "wechatID": "LeroyJethroGibbs",
+    "QR": "ziva_qr.png",
+    "CNname": "徐玉昕",
+    "speakCN": "YES!"
+  }
 ]
