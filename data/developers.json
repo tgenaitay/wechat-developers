@@ -81,7 +81,7 @@
   },
   {
     "name": "Xiaohu Pei",
-    "location": "Hangzhou, Beijing, Shanghai",
+    "location": "Hangzhou / Beijing / Shanghai",
     "url": "https://www.linkedin.com/in/audrey-gourdji/",
     "avatar": "https://avatars.githubusercontent.com/u/11469112",
     "wechatID": "ifreelifehacker",
@@ -91,7 +91,7 @@
   },
   {
     "name": "Jason Chee",
-    "location": "Hangzhou, Shanghai",
+    "location": "Hangzhou / Shanghai",
     "url": "https://jchee.org",
     "avatar": "https://avatars0.githubusercontent.com/u/24415168?",
     "wechatID": "screendoor",
@@ -111,7 +111,7 @@
   },
   {
     "name": "Sergio Rivas",
-    "location": "Hangzhou, Ningbo, Shanghai",
+    "location": "Hangzhou / Ningbo / Shanghai",
     "url": "",
     "avatar": "https://avatars0.githubusercontent.com/u/25148614?",
     "wechatID": "sergio-swat",
@@ -168,5 +168,15 @@
     "QR": "ziva_qr.png",
     "CNname": "徐玉昕",
     "speakCN": "YES!"
+  },
+  {
+    "name": "Leo Chen",
+    "location": "Los Angeles / Shanghai",
+    "url": "https://github.com/leochen65/",
+    "avatar": "https://avatars3.githubusercontent.com/u/39700574?s=460&v=4",
+    "wechatID": "chenleo_0803",
+    "QR": "leochen.jpg",
+    "CNname": "陈奕恺",
+    "speakCN": "Yes!"
   }
 ]
