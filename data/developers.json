@@ -178,5 +178,15 @@
     "QR": "leochen.jpg",
     "CNname": "陈奕恺",
     "speakCN": "Yes!"
+  },
+  {
+    "name": "Ben Quartermaine",
+    "location": "Melbourne / Shanghai",
+    "url": "https://github.com/BenQuartermaine",
+    "avatar": "https://avatars1.githubusercontent.com/u/32382795?s=460&v=4",
+    "wechatID": "benquarter",
+    "QR": "benquartermaine.jpg",
+    "CNname": "周士杰",
+    "speakCN": "Yes!"
   }
 ]
