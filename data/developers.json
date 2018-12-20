@@ -188,5 +188,15 @@
     "QR": "benquartermaine.jpg",
     "CNname": "周士杰",
     "speakCN": "Yes!"
+  },
+  {
+    "name": "Kitty Chen",
+    "location": "Taiwan / Shanghai",
+    "url": "https://www.linkedin.com/in/chenszting/",
+    "avatar": "https://avatars3.githubusercontent.com/u/11503196?s=400",
+    "wechatID": "nophotohaha",
+    "QR": "chenszting.png",
+    "CNname": "陳思廷",
+    "speakCN": "YES!"
   }
 ]
