@@ -188,5 +188,15 @@
     "QR": "katyaQR.png",
     "CNname": "叶卡",
     "speakCN": "YES!"
-  }
+  },
+  {
+  "name": "Sergi de Pablo",
+  "location": "Barcelona / Shanghai",
+  "url": "https://www.out1n.es/",
+  "avatar": "https://avatars1.githubusercontent.com/u/34126551?s=400&u=16d6d7db69914ae684d18f8c98c72a999829243c&v=4",
+  "wechatID": "sergidepablo",
+  "QR": "Sergidepablo.jpg",
+  "CNname": "塞吉",
+  "speakCN": "YES!"
+}
 ]
