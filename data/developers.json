@@ -178,5 +178,15 @@
     "QR": "leochen.jpg",
     "CNname": "陈奕恺",
     "speakCN": "Yes!"
+  },
+  {
+  "name": "Zhenyu Liu",
+  "location": "Shanghai / Xi'an",
+  "url": "https://www.linkedin.com/in/liuzhenyu0630",
+  "avatar": "https://raw.githubusercontent.com/LyHuiENuZ/images/master/zhenyu.jpeg",
+  "wechatID": "LZY-19940630",
+  "QR": "Zhenyu.jpeg",
+  "CNname": "刘振宇",
+  "speakCN": "YES!"
   }
 ]
