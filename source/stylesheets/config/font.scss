@@ -1,10 +1,4 @@
-@font-face{
-  font-family:"Avenir";
-  src: url('config/fonts/AvenirLight.woff') format("woff"),
-  url('config/fonts/AvenirLight.woff2') format("woff2"),
-  url('config/fonts/AvenirLight.ttf') format("truetype");
-  font-weight:100;
-}
+@import url("http://fonts.googleapis.com/css?family=Raleway:100,300,700,500");
 
 @font-face {
   font-family: "iconfont";
@@ -21,7 +15,7 @@
 
 @media only screen and (max-width: 650px)  {
   .icon {
-    font-size:4em;
+    font-size:2em;
   }
 }
 

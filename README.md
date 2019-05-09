@@ -2,9 +2,7 @@
 
 # Wechatdevelopers.com
 
-[Le Wagon](https://www.lewagon.com/) community project
-
-### Light directory of Wagoners who code WeChat apps!
+### Light directory of developers who code WeChat apps!
 
 👉 [https://www.wechatdevelopers.com](https://www.wechatdevelopers.com/)
 
@@ -35,7 +33,7 @@ No need to put yourself first, the directory is rendered in random order 😉
 
 - Upload your file to `source/images/QR`
 - No white border
-- > 300 * 300px
+- Minimum 300 * 300px
 
 ## 4. Submit a [pull request](https://github.com/tgenaitay/wechat-developers/compare) 🎉
 

@@ -3,28 +3,25 @@
   margin: 0 auto;
   height: 355px;
   border-radius: 2px;
-  box-shadow: 0 0 10px rgba(245,246,247,1);
+  box-shadow: 0 0 10px #f5f6f7;
   display: flex;
   align-items: center;
   justify-content: space-around;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
-  position:relative;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
-}
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2); }
 
 .card p {
   margin: 0px;
   font-weight: bold;
   background-color: white;
   padding: 5px 10px 0px 5px;
-  border-radius: 2px;
-}
+  border-radius: 2px; }
 
 .card span {
-  font-size: 0.8em;
-}
+  font-size: 0.8em; }
 
 .avatar {
   border-radius: 50%;
@@ -33,9 +30,7 @@
   width: 60px;
   height: 60px;
   position: relative;
-  top: -10px;
-}
-
+  top: -10px; }
 
 .QR {
   width: 100%;
@@ -44,8 +39,7 @@
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
-  border-radius: 2px;
-}
+  border-radius: 2px; }
 
 .overlay-text {
   transition: all 0.1s ease;
@@ -56,19 +50,18 @@
   text-align: center;
   display: flex;
   align-items: center;
-  background-color: rgba(rgba(0,0,0,0.7), 0.9);
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.9);
   position: absolute;
   height: 80px;
   top: 110px;
-  padding: 10px;
-}
+  padding: 10px; }
 
 .overlay-text strong {
-  font-size: 2em;
-}
+  font-size: 2em; }
 
 .bottom-text {
-  box-shadow: 0 -2px 2px -2px rgba(0,0,0,.15);
+  box-shadow: 0 -2px 2px -2px rgba(0, 0, 0, 0.15);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -78,28 +71,23 @@
   justify-content: space-between;
   height: 55px;
   padding: 2px 5px 0px 5px;
-  border-radius: 2px;
-}
+  border-radius: 2px; }
 
-.bottom-text span{
-  padding-left:5px;
-}
+.bottom-text span {
+  padding-left: 5px; }
 
 .card:hover .overlay-text, .card:active .overlay-text, .card:focus .overlay-text {
-  opacity: 1;
-}
+  opacity: 1; }
 
 .card:hover .avatar {
   top: -14px;
-  border-color: rgba(189, 37, 16, 1.00);
-}
+  border-color: #bd2510; }
 
 .chinese {
-  position:relative;
+  position: relative;
   color: #fff;
-  background-color: rgba(189, 37, 16, 1.00);
+  background-color: #bd2510;
   padding: 0.38rem !important;
   font-size: 0.66571rem !important;
   border-radius: 50px;
-  text-align:center;
-}
+  text-align: center; }

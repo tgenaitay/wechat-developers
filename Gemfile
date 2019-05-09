@@ -1,6 +1,6 @@
-source 'https://gems.ruby-china.com'
+source 'https://rubygems.org/'
 
-gem 'middleman', '~> 4.2'
+gem 'middleman', '~> 4.3.2'
 gem 'middleman-autoprefixer', '~> 2.7'
 gem 'middleman-deploy', git: 'https://github.com/lewagon/middleman-deploy.git'
 gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
