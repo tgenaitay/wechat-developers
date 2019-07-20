@@ -218,5 +218,15 @@
   "QR": "katyaQR2.png",
   "CNname": "叶卡",
   "speakCN": "YES!"
+},
+{
+  "name": "Muhammed Refaat",
+  "location": "Dubai",
+  "url": "https://www.linkedin.com/in/muhammed-refaat-582b386a/",
+  "avatar": "https://imge.to/i/yJPLt",
+  "wechatID": "M_Refaat",
+  "QR": "refaatQr.jpeg",
+  "CNname": "",
+  "speakCN": ""
 }
 ]
