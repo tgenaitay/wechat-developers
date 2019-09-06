@@ -218,5 +218,15 @@
   "QR": "katyaQR2.png",
   "CNname": "叶卡",
   "speakCN": "YES!"
+},
+{
+  "name": "Sally Li",
+  "location": "Shanghai",
+  "url": "https://www.linkedin.com/in/sallypeizhenli/",
+  "avatar": "https://avatars3.githubusercontent.com/u/48637310?s=460&v=4",
+  "wechatID": "sunnysallyli",
+  "QR": "sallyli.jpeg",
+  "CNname": "利佩珍",
+  "speakCN": "YES!"
 }
 ]
