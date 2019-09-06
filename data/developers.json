@@ -227,6 +227,15 @@
   "wechatID": "sunnysallyli",
   "QR": "sallyli.jpeg",
   "CNname": "利佩珍",
+},
+{
+  "name": "Irene Chan",
+  "location": "Shanghai / Hong Kong",
+  "url": "https://www.linkedin.com/in/irene-chan-0b915ab8/",
+  "avatar": "https://avatars1.githubusercontent.com/u/50101985?s=400&u=0e18d8ba6de043d79bbe25a03fbd0d84e2a4d20f&v=4",
+  "wechatID": "irene_cny",
+  "QR": "irene_qrCode.jpg",
+  "CNname": "陳毅瑩",
   "speakCN": "YES!"
 }
 ]
