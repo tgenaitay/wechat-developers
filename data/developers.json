@@ -238,15 +238,5 @@
   "QR": "irene_qrCode.jpg",
   "CNname": "陳毅瑩",
   "speakCN": "YES!"
-},
-  {
-    "name": "Ben Mrejen",
-  "location": "Shanghai",
-  "url": "https://www.linkedin.com/in/bmrejen/",
-  "avatar": "https://avatars2.githubusercontent.com/u/20118433",
-  "wechatID": "15618928329",
-  "QR": "benoitmrejen.png",
-  "CNname": "白诺",
-  "speakCN": "YES!"
 }
 ]
