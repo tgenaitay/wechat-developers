@@ -248,5 +248,15 @@
   "QR": "benoitmrejen.png",
   "CNname": "白诺",
   "speakCN": "YES!"
+},
+  {
+    "name": "Bony Habib",
+  "location": "HuaiAn,Jiangsu",
+  "url": "https://www.linkedin.com/in/ashiqul-habib-99b97949/",
+  "avatar": "https://avatars2.githubusercontent.com/u/15127317?s=400&u=e3d2fb9213ec90d5bf5a819393bd95f7049ede95&v=4",
+  "wechatID": "bony-habib",
+  "QR": "bh-qr.jpg",
+  "CNname": "哈比",
+  "speakCN": "YES!"
 }
 ]
