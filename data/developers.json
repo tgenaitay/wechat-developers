@@ -200,53 +200,63 @@
     "speakCN": "YES!"
   },
   {
-  "name": "Sergi de Pablo",
-  "location": "Barcelona / Shanghai",
-  "url": "https://www.out1n.es/",
-  "avatar": "https://avatars1.githubusercontent.com/u/34126551?s=400&u=16d6d7db69914ae684d18f8c98c72a999829243c&v=4",
-  "wechatID": "sergidepablo",
-  "QR": "Sergidepablo.jpg",
-  "CNname": "塞吉",
-  "speakCN": "YES!"
-},
-{
-  "name": "Ekaterina 叶卡",
-  "location": "Shanghai",
-  "url": "https://www.linkedin.com/in/ekaterina-gorbacheva-b4140380/",
-  "avatar": "https://avatars0.githubusercontent.com/u/34571442?s=460&v=4",
-  "wechatID": "kittinson2",
-  "QR": "katyaQR2.png",
-  "CNname": "叶卡",
-  "speakCN": "YES!"
-},
-{
-  "name": "Sally Li",
-  "location": "Shanghai",
-  "url": "https://www.linkedin.com/in/sallypeizhenli/",
-  "avatar": "https://avatars3.githubusercontent.com/u/48637310?s=460&v=4",
-  "wechatID": "sunnysallyli",
-  "QR": "sallyli.jpeg",
-  "CNname": "利佩珍",
-  "speakCN": "YES!"
-},
-{
-  "name": "Irene Chan",
-  "location": "Shanghai / Hong Kong",
-  "url": "https://www.linkedin.com/in/irene-chan-0b915ab8/",
-  "avatar": "https://avatars1.githubusercontent.com/u/50101985?s=400&u=0e18d8ba6de043d79bbe25a03fbd0d84e2a4d20f&v=4",
-  "wechatID": "irene_cny",
-  "QR": "irene_qrCode.jpg",
-  "CNname": "陳毅瑩",
-  "speakCN": "YES!"
-},
+    "name": "Sergi de Pablo",
+    "location": "Barcelona / Shanghai",
+    "url": "https://www.out1n.es/",
+    "avatar": "https://avatars1.githubusercontent.com/u/34126551?s=400&u=16d6d7db69914ae684d18f8c98c72a999829243c&v=4",
+    "wechatID": "sergidepablo",
+    "QR": "Sergidepablo.jpg",
+    "CNname": "塞吉",
+    "speakCN": "YES!"
+  },
+  {
+    "name": "Ekaterina 叶卡",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/ekaterina-gorbacheva-b4140380/",
+    "avatar": "https://avatars0.githubusercontent.com/u/34571442?s=460&v=4",
+    "wechatID": "kittinson2",
+    "QR": "katyaQR2.png",
+    "CNname": "叶卡",
+    "speakCN": "YES!"
+  },
+  {
+    "name": "Sally Li",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/sallypeizhenli/",
+    "avatar": "https://avatars3.githubusercontent.com/u/48637310?s=460&v=4",
+    "wechatID": "sunnysallyli",
+    "QR": "sallyli.jpeg",
+    "CNname": "利佩珍",
+    "speakCN": "YES!"
+  },
+  {
+    "name": "Irene Chan",
+    "location": "Shanghai / Hong Kong",
+    "url": "https://www.linkedin.com/in/irene-chan-0b915ab8/",
+    "avatar": "https://avatars1.githubusercontent.com/u/50101985?s=400&u=0e18d8ba6de043d79bbe25a03fbd0d84e2a4d20f&v=4",
+    "wechatID": "irene_cny",
+    "QR": "irene_qrCode.jpg",
+    "CNname": "陳毅瑩",
+    "speakCN": "YES!"
+  },
   {
     "name": "Ben Mrejen",
-  "location": "Shanghai",
-  "url": "https://www.linkedin.com/in/bmrejen/",
-  "avatar": "https://avatars2.githubusercontent.com/u/20118433",
-  "wechatID": "15618928329",
-  "QR": "benoitmrejen.png",
-  "CNname": "白诺",
-  "speakCN": "YES!"
-}
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/bmrejen/",
+    "avatar": "https://avatars2.githubusercontent.com/u/20118433",
+    "wechatID": "15618928329",
+    "QR": "benoitmrejen.png",
+    "CNname": "白诺",
+    "speakCN": "YES!"
+  },
+  {
+    "name": "Obed Frimpong Osei",
+    "location": "Shanghai",
+    "url": "https://www.linkedin.com/in/oseifrimpong/",
+    "avatar": "https://avatars2.githubusercontent.com/u/3536601?v=4",
+    "wechatID": "obed20",
+    "QR": "ObedOseiFrimpong.jpg",
+    "CNname": "",
+    "speakCN": ""
+  }
 ]
