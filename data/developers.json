@@ -248,5 +248,15 @@
     "QR": "benoitmrejen.png",
     "CNname": "白诺",
     "speakCN": "YES!"
+  },
+  {
+    "name": "Stéphane Chan-kam",
+    "location": "Taipei / Shanghai / Hong-Kong",
+    "url": "https://dreamspot.io/contact",
+    "avatar": "https://avatars3.githubusercontent.com/u/3543017",
+    "wechatID": "s-chankam",
+    "QR": "dreamspot.png",
+    "CNname": "",
+    "speakCN": ""
   }
 ]
