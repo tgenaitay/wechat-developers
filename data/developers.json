@@ -258,5 +258,15 @@
     "QR": "dreamspot.png",
     "CNname": "",
     "speakCN": ""
+  },
+  {
+    "name": "Sergey Filippov",
+    "location": "Shanghai",
+    "url": "http://sergey.digital/",
+    "avatar": "https://avatars2.githubusercontent.com/u/61498261",
+    "wechatID": "filser89",
+    "QR": "sergeyfilippov.png",
+    "CNname": "",
+    "speakCN": ""
   }
 ]
