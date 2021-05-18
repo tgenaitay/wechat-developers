@@ -268,5 +268,15 @@
     "QR": "sergeyfilippov.png",
     "CNname": "",
     "speakCN": ""
+  },
+  {
+    "name": "Ivy Yu",
+    "location": "Shanghai",
+    "url": "https://papercranetech.co",
+    "avatar": "https://avatars.githubusercontent.com/u/46140142?v=4",
+    "wechatID": "ivy_yu10",
+    "QR": "ivy_papercrane.png",
+    "CNname": "余思敏",
+    "speakCN": "Yes"
   }
 ]
